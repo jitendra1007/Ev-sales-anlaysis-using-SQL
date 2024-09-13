@@ -52,7 +52,7 @@ This project provides valuable insights into the Indian EV market, highlighting 
 ---
 
 **P.S.**:  
-Don't forget to check out the SQL queries in the [**SQL-code**](#) folder to see how the analysis was performed. Also, you can view the full presentation with key insights and recommendations in the [**Presentation**](#) folder. These resources will give you a deeper understanding of the data analysis and strategic insights derived from this project.
+Don't forget to check out the SQL queries in the [**SQL-code**](https://github.com/jitendra1007/Ev-sales-anlaysis-using-SQL/tree/main/SQL-code) folder to see how the analysis was performed. Also, you can view the full presentation with key insights and recommendations in the [**Presentation**](#) folder. These resources will give you a deeper understanding of the data analysis and strategic insights derived from this project.
 
 ---
 
